@@ -1,6 +1,7 @@
 ### Hi there 👋
 ▲ Pravin Sharma
 Reach me: **sharmapravin7631@gmail.com**
+
 About me:
 I am a modern day problem solver and a 3rd year undergraduate student of Computer science and engineering Course at KIIT University Bhubaneswar
 I like to code in C++. I am thorough with Data Structure and Algorithms. I have a basic knowledge about Frontend Development (HTML, CSS) 
