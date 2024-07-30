@@ -5,7 +5,7 @@
 Reach me: **sharmapravin7631@gmail.com**
 
 About me:
-I am a modern day problem solver and a 3rd year undergraduate student of Computer science and engineering Course at KIIT University Bhubaneswar
+I am a modern day problem solver and a 4th year undergraduate student of Computer science and engineering Course at KIIT University Bhubaneswar
 I like to code in C++. I am thorough with Data Structure and Algorithms. I have a basic knowledge about Frontend Development (HTML, CSS) 
 I'm extremely interested in Coding and SDE intership opportunities.
 I'm a person with diversified interests. I bring forth not just technical skills, but non technical skills like management, leadership, team work etc. 
